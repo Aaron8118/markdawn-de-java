@@ -7,3 +7,5 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Datos:
+    - Tipos de datos: tipos_de_datos.md
