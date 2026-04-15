@@ -46,3 +46,6 @@ Cada objeto tiene:
 - **Polimorfismo**: permite tratar objetos de distintas clases derivadas como si fueran del mismo tipo padre.
 - **Modularidad**: organiza el código en unidades independientes y fáciles de mantener.
 - **Reutilización**: promueve el uso de componentes ya creados en lugar de escribir código nuevo desde cero.
+
+
+![Programacion](images/programacion.jpg)
