@@ -9,3 +9,14 @@ nav:
   - Inicio: index.md
   - Datos:
     - Tipos de datos: tipos_de_datos.md
+    - Variables: variables.md
+    - Operadores: operadores.md
+  - Lógica: logica.md
+  - Programación orientada a objetos:
+    - Clases: clases.md
+    - Objetos: objetos.md
+    - Métodos: metodos.md
+    - Constructores: constructores.md
+    - Interfaces: interfaces.md
+    - Herencia: herencia.md
+    - Polimorfismo: poliformismo.md
