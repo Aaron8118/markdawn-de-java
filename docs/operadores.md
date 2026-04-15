@@ -36,15 +36,17 @@ Los operadores en Java permiten realizar operaciones sobre valores y variables.
 
 La prioridad determina el orden en que se evalúan las operaciones. Los operadores con mayor prioridad se evalúan primero. Aquí una lista numerada de mayor a menor prioridad para los operadores mencionados:
 
-1. **Post-incremento/decremento**: `++`, `--` (después de la variable)
-2. **Pre-incremento/decremento**: `++`, `--` (antes de la variable)
-3. **Aritméticos**: `*`, `/`, `%`
-4. **Aritméticos**: `+`, `-`
-5. **Comparación**: `<`, `>`, `<=`, `>=`
-6. **Igualdad**: `==`, `!=`
-7. **Lógicos**: `&&`
-8. **Lógicos**: `||`
-9. **Asignación**: `=`, `+=`, `-=`, `*=`, `/=`, `%=`
+| Prioridad | Operadores | Descripción |
+|-----------|-----------|-------------|
+| 1 | `++`, `--` | Post-incremento/decremento |
+| 2 | `++`, `--` | Pre-incremento/decremento |
+| 3 | `*`, `/`, `%` | Aritméticos (multiplicación, división, módulo) |
+| 4 | `+`, `-` | Aritméticos (suma, resta) |
+| 5 | `<`, `>`, `<=`, `>=` | Comparación |
+| 6 | `==`, `!=` | Igualdad |
+| 7 | `&&` | Y lógico |
+| 8 | `\|\|` | O lógico |
+| 9 | `=`, `+=`, `-=`, `*=`, `/=`, `%=` | Asignación |
 
 ## Ejemplos
 
