@@ -1,0 +1,9 @@
+site_name: Mkdocs de java
+site_description: Aprende cosas sobre java
+site_author: Aaron Selles
+
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
