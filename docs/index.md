@@ -1,6 +1,7 @@
 # Lenguaje de programacion Java
 
 Bienvenido a este documento de mkdocs sobre Java.
+![Logo de Java](images/java.jpg)
 
 ---
 
