@@ -22,10 +22,10 @@ En Java, los tipos de datos se dividen en dos categorías principales:
 
 Los tipos de referencia almacenan referencias (direcciones de memoria) a objetos, no los valores directamente. A diferencia de los tipos primitivos, que almacenan el valor real, los tipos de referencia permiten trabajar con objetos complejos y pueden ser `null`.
 
-- String: Cadena de caracteres inmutable.
-- Arrays: Colecciones de elementos del mismo tipo.
-- Clases personalizadas: Objetos definidos por el usuario.
-- Interfaces: Contratos para clases que las implementan.
+- **String**: Cadena de caracteres inmutable.
+- **Arrays**: Colecciones de elementos del mismo tipo.
+- **Clases personalizadas**: Objetos definidos por el usuario.
+- **Interfaces**: Contratos para clases que las implementan.
 
 ## Ejemplos
 

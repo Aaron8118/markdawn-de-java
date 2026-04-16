@@ -11,6 +11,7 @@ Para definir una variable en Java, sigue esta sintaxis básica:
 ```
 
 Donde:
+
 1. **modificador**: Opcional, como `public`, `private`, `static`, `final`, etc.
 2. **tipo**: El tipo de dato de la variable (ej. `int`, `String`, `boolean`).
 3. **nombre**: El identificador de la variable (debe seguir reglas de nomenclatura).
